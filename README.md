@@ -41,6 +41,15 @@ Comprobar experimentalmente el Análisis de Nodos.
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+Circuito Armado
+
+![cir](https://user-images.githubusercontent.com/93835587/143969453-5cf7b4d9-8fe7-4209-bb55-96cff8414839.jpg)
+
+Medición del voltaje de cada Nodo
+
+![nodos](https://user-images.githubusercontent.com/93835587/143969552-1c0953b6-dd0f-4e27-86ce-7b146e54336f.jpg)
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.6 VIDEOS**
