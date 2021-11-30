@@ -27,8 +27,19 @@ Se requiere el análisis analítico del circuito mostrado en la figura 3.1., med
 tabla 3.1.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**3.3. INFORMACIÓN GENERAL**
 
-**1.3 MARCO TEÓRICO**
+El análisis de nodos es una técnica que hace uso de la LCK para expresar corrientes en función de voltajes.
+Un nodo es el punto de unión de dos o más elementos.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**3.4. MATERIAL Y EQUIPO REQUERIDO**
+
+![78](https://user-images.githubusercontent.com/93800511/143964444-144a4941-bbeb-4eba-bdd8-5ac136446ab0.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**3.5. MARCO TEÓRICO**
 
 ![142921057-ca1f6939-c1be-4cb4-85a4-2bc00deb63ce](https://user-images.githubusercontent.com/93800511/143978078-b99a56b0-fde6-4c8d-a812-883608061667.png)
 
@@ -36,13 +47,16 @@ tabla 3.1.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**1.4 EXPLICACIÓN DE PROCEDIMIENTO**
+**3.6. PROCEDIMIENTO**
 
-* Materiales a usar.
+* 3.5.1. Implemente el circuito que se presenta en la figura 3.1.
 
-![78](https://user-images.githubusercontent.com/93800511/143964444-144a4941-bbeb-4eba-bdd8-5ac136446ab0.png)
+![imagen](https://user-images.githubusercontent.com/93835533/143982374-bd37c80a-659b-4bef-a5ce-0a6096d3cc51.png)
 
-* Circuito propuesto
+
+
+
+ Circuito propuesto
  
 ![image](https://user-images.githubusercontent.com/93835587/143970343-e9ac8c4f-f7be-4e07-a702-99ec1f922685.png)
 
