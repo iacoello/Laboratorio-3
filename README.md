@@ -16,9 +16,15 @@
 * 2/12/2021
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**1.1 OBJETIVO GENERAL**
+**3.1. OBJETIVO GENERAL**
 
 Comprobar experimentalmente el Análisis de Nodos desarrollado por mediode las leyes de Kirchoff de nodos  haciendo usodos en sistemas de representacion virtuales, fisicos y teoricos relacionados al armado y analisis de circuitos electrónicos.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**3.2. REQUISITOS PREVIOS**
+
+Se requiere el análisis analítico del circuito mostrado en la figura 3.1., mediante la técnica del análisis de nodos. El valor obtenido de cada voltaje de nodo anótelo en la
+tabla 3.1.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
