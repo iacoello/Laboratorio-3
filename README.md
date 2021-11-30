@@ -48,7 +48,8 @@ Circuito Armado
 
 Medición del voltaje de cada Nodo
 
-![nodos](https://user-images.githubusercontent.com/93835587/143969552-1c0953b6-dd0f-4e27-86ce-7b146e54336f.jpg)
+![image](https://user-images.githubusercontent.com/93835587/143969931-1b1205ee-c532-4430-9a51-b47992e78315.png)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
