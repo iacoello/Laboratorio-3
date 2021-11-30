@@ -34,7 +34,8 @@ Comprobar experimentalmente el Análisis de Nodos.
 
 * Circuito propuesto
  
-![image](https://user-images.githubusercontent.com/93835587/143969883-82c98d17-aa63-4b95-9d7e-ca3d947aa8a8.png)
+![image](https://user-images.githubusercontent.com/93835587/143970343-e9ac8c4f-f7be-4e07-a702-99ec1f922685.png)
+
 
 
 
