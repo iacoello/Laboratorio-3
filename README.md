@@ -51,8 +51,9 @@ Medición del voltaje de cada Nodo
 
 ![image](https://user-images.githubusercontent.com/93835587/143969931-1b1205ee-c532-4430-9a51-b47992e78315.png)
 
+<img src="https://latex.codecogs.com/svg.image?\\NODO~1\to&space;No~genera~ecuaciones" title="\\NODO~1\to No~genera~ecuaciones" />
 
-<img src="https://latex.codecogs.com/svg.image?\\NODO~1\\&space;I_{1}&plus;I_{2}&plus;I_{3}=&space;0\\\\\frac{V_{1}-V_{2}}{R_{1}}&space;&plus;\frac{V_{0}-V_{2}}{R_{2}}&plus;\frac{V_{3}-V_{2}}{R_{3}}=&space;0\\\\\frac{V_{F1}-V_{2}}{R_{1}}&space;&plus;\frac{V_{0}-V_{2}}{R_{2}}&plus;\frac{V_{3}-V_{2}}{R_{3}}=&space;0\\&space;\\V_{F1}\left&space;(&space;\frac{1}{R1}&space;\right&space;)&plus;V_{3}\left&space;(&space;\frac{1}{R3}&space;\right&space;)-V_{2}\left&space;(&space;\frac{1}{R1}&space;&plus;\frac{1}{R2}&plus;\frac{1}{R3}\right&space;)=&space;0" title="\\NODO~1\\ I_{1}+I_{2}+I_{3}= 0\\\\\frac{V_{1}-V_{2}}{R_{1}} +\frac{V_{0}-V_{2}}{R_{2}}+\frac{V_{3}-V_{2}}{R_{3}}= 0\\\\\frac{V_{F1}-V_{2}}{R_{1}} +\frac{V_{0}-V_{2}}{R_{2}}+\frac{V_{3}-V_{2}}{R_{3}}= 0\\ \\V_{F1}\left ( \frac{1}{R1} \right )+V_{3}\left ( \frac{1}{R3} \right )-V_{2}\left ( \frac{1}{R1} +\frac{1}{R2}+\frac{1}{R3}\right )= 0" />
+<img src="https://latex.codecogs.com/svg.image?\\NODO~2\\&space;I_{1}&plus;I_{2}&plus;I_{3}=&space;0\\\\\frac{V_{1}-V_{2}}{R_{1}}&space;&plus;\frac{V_{0}-V_{2}}{R_{2}}&plus;\frac{V_{3}-V_{2}}{R_{3}}=&space;0\\\\\frac{V_{F1}-V_{2}}{R_{1}}&space;&plus;\frac{V_{0}-V_{2}}{R_{2}}&plus;\frac{V_{3}-V_{2}}{R_{3}}=&space;0\\&space;\\V_{F1}\left&space;(&space;\frac{1}{R1}&space;\right&space;)&plus;V_{3}\left&space;(&space;\frac{1}{R3}&space;\right&space;)-V_{2}\left&space;(&space;\frac{1}{R1}&space;&plus;\frac{1}{R2}&plus;\frac{1}{R3}\right&space;)=&space;0" title="\\NODO~2\\ I_{1}+I_{2}+I_{3}= 0\\\\\frac{V_{1}-V_{2}}{R_{1}} +\frac{V_{0}-V_{2}}{R_{2}}+\frac{V_{3}-V_{2}}{R_{3}}= 0\\\\\frac{V_{F1}-V_{2}}{R_{1}} +\frac{V_{0}-V_{2}}{R_{2}}+\frac{V_{3}-V_{2}}{R_{3}}= 0\\ \\V_{F1}\left ( \frac{1}{R1} \right )+V_{3}\left ( \frac{1}{R3} \right )-V_{2}\left ( \frac{1}{R1} +\frac{1}{R2}+\frac{1}{R3}\right )= 0" />
 
 
 
