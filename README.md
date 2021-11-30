@@ -94,18 +94,19 @@ Un nodo es el punto de unión de dos o más elementos.
 
 
 
-
 <img src="https://latex.codecogs.com/svg.image?\\NODO~3\\&space;I_{3}&plus;I_{4}&plus;I_{5}=&space;0\\\\\frac{V_{2}-V_{3}}{R_{3}}&space;&plus;\frac{V_{0}-V_{3}}{R_{4}}&plus;\frac{V_{4}-V_{3}}{R_{5}}=&space;0\\\\\frac{V_{2}-V_{3}}{R_{3}}&space;&plus;\frac{V_{0}-V_{3}}{R_{4}}&plus;\frac{F_{2}-V_{3}}{R_{5}}=&space;0\\&space;\\V_{2}\left&space;(&space;\frac{1}{R3}&space;\right&space;)&plus;V_{F2}\left&space;(&space;\frac{1}{R5}&space;\right&space;)-V_{3}\left&space;(&space;\frac{1}{R3}&space;&plus;\frac{1}{R4}&plus;\frac{1}{R5}\right&space;)=&space;0&space;" title="\\NODO~3\\&space;I_{3}&plus;I_{4}&plus;I_{5}=&space;0\\\\\frac{V_{2}-V_{3}}{R_{3}}&space;&plus;\frac{V_{0}-V_{3}}{R_{4}}&plus;\frac{V_{4}-V_{3}}{R_{5}}=&space;0\\\\\frac{V_{2}-V_{3}}{R_{3}}&space;&plus;\frac{V_{0}-V_{3}}{R_{4}}&plus;\frac{F_{2}-V_{3}}{R_{5}}=&space;0\\&space;\\V_{2}\left&space;(&space;\frac{1}{R3}&space;\right&space;)&plus;V_{F2}\left&space;(&space;\frac{1}{R5}&space;\right&space;)-V_{3}\left&space;(&space;\frac{1}{R3}&space;&plus;\frac{1}{R4}&plus;\frac{1}{R5}\right&space;)=&space;0 " />
 
 
 <img src="https://latex.codecogs.com/svg.image?Remplazamos~datos~en~la~siguiente~ecuacion&space;\\&space;\\V_{2}\left&space;(&space;\frac{1}{R3}&space;\right&space;)&plus;V_{F2}\left&space;(&space;\frac{1}{R5}&space;\right&space;)-V_{3}\left&space;(&space;\frac{1}{R3}&space;&plus;\frac{1}{R4}&plus;\frac{1}{R5}\right&space;)=&space;0\\&space;\\V_{2}\left&space;(&space;\frac{1}{2200\Omega}&space;\right&space;)&plus;8\left&space;(&space;\frac{1}{1500\Omega}&space;\right&space;)-V_{3}\left&space;(&space;\frac{1}{2200\Omega}&space;&plus;\frac{1}{3900\Omega}&plus;\frac{1}{1500\Omega}\right&space;)=&space;0&space;\\Obtenemos~la~siguiente~ecuacion&space;\\0,0053V-0,0014\Omega&space;^{-1}&space;V_{3}-0,0005\Omega^{-1}V_{2}=&space;0&space;" title="Remplazamos~datos~en~la~siguiente~ecuacion \\&space;\\V_{2}\left&space;(&space;\frac{1}{R3}&space;\right&space;)&plus;V_{F2}\left&space;(&space;\frac{1}{R5}&space;\right&space;)-V_{3}\left&space;(&space;\frac{1}{R3}&space;&plus;\frac{1}{R4}&plus;\frac{1}{R5}\right&space;)=&space;0\\&space;\\V_{2}\left&space;(&space;\frac{1}{2200\Omega}&space;\right&space;)&plus;8\left&space;(&space;\frac{1}{1500\Omega}&space;\right&space;)-V_{3}\left&space;(&space;\frac{1}{2200\Omega}&space;&plus;\frac{1}{3900\Omega}&plus;\frac{1}{1500\Omega}\right&space;)=&space;0 \\Obtenemos~la~siguiente~ecuacion&space;\\0,0053V-0,0014\Omega&space;^{-1}&space;V_{3}-0,0005\Omega^{-1}V_{2}=&space;0 " />
 
 
+<img src="https://latex.codecogs.com/svg.image?\\Despejamos~V_{2}\\\\V_{2}=&space;\frac{0,0014V_{3}-0,0053}{0,0005}&space;\\\&space;\\V_{2}=2,8V_{3}&space;-10,6&space;" title="\\Despejamos~V_{2}\\\\V_{2}=&space;\frac{0,0014V_{3}-0,0053}{0,0005}&space;\\\&space;\\V_{2}=2,8V_{3}&space;-10,6 " />
 
 
 
 <img src="https://latex.codecogs.com/svg.image?\\Para~obtener~nuestra~incognita~igualamos~V_{2}\\\\0,1612V_{3}&plus;2,1613&space;=&space;2,8V_{3}-10,6\\\\12,7213=&space;2,6397V_{3}&space;\\\\&space;V_{3}=&space;\frac{12,7213}{2,6397}\\&space;V_{3}=4,82V" title="\\Para~obtener~nuestra~incognita~igualamos~V_{2}\\\\0,1612V_{3}+2,1613 = 2,8V_{3}-10,6\\\\12,7213= 2,6397V_{3} \\\\ V_{3}= \frac{12,7213}{2,6397}\\ V_{3}=4,82V" />
 
+<img src="https://latex.codecogs.com/svg.image?\\Encotramos~V_{2}\\\\V_{2}=2,8V_{3}&space;-10,6\\V_{2}=2,8(4,82)&space;-10,6\\V_{2}=2,82~V&space;" title="\\Encotramos~V_{2}\\\\V_{2}=2,8V_{3}&space;-10,6\\V_{2}=2,8(4,82)&space;-10,6\\V_{2}=2,82~V " />
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
