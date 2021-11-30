@@ -58,6 +58,7 @@ Un nodo es el punto de unión de dos o más elementos.
 
 ![cir](https://user-images.githubusercontent.com/93835587/143969453-5cf7b4d9-8fe7-4209-bb55-96cff8414839.jpg)
 
+![435e00f5-26e1-428c-86d0-7414ddfa42e8](https://user-images.githubusercontent.com/93800511/143973543-513a4e95-6741-44db-82d9-0975f6adb830.jpg)
 
 **3.6.2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.**
 
@@ -92,13 +93,7 @@ Un nodo es el punto de unión de dos o más elementos.
 
 <img src="https://latex.codecogs.com/svg.image?\\Para~obtener~nuestra~incognita~igualamos~V_{2}\\\\0,1612V_{3}&plus;2,1613&space;=&space;2,8V_{3}-10,6\\\\12,7213=&space;2,6397V_{3}&space;\\\\&space;V_{3}=&space;\frac{12,7213}{2,6397}\\&space;V_{3}=4,82V" title="\\Para~obtener~nuestra~incognita~igualamos~V_{2}\\\\0,1612V_{3}+2,1613 = 2,8V_{3}-10,6\\\\12,7213= 2,6397V_{3} \\\\ V_{3}= \frac{12,7213}{2,6397}\\ V_{3}=4,82V" />
 
-* Circuito desarrollado por softwere
 
-![789](https://user-images.githubusercontent.com/93800511/143972643-2542ab2e-8ed9-4996-b618-ed567eafe105.png)
-
-* Circuito Armado 
-
-![435e00f5-26e1-428c-86d0-7414ddfa42e8](https://user-images.githubusercontent.com/93800511/143973543-513a4e95-6741-44db-82d9-0975f6adb830.jpg)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
