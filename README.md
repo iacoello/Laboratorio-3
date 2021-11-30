@@ -16,21 +16,58 @@
 * 2/12/2021
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**1.1 OBJETIVO GENERAL**
+**3.1. OBJETIVO DE LA PRÁCTICA**
 
 Comprobar experimentalmente el Análisis de Nodos.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**1.3 MARCO TEÓRICO**
+**3.2. REQUISITOS PREVIOS.**
+
+Se requiere el análisis analítico del circuito mostrado en la figura 3.1., mediante la técnica del análisis de nodos. El valor obtenido de cada voltaje de nodo anótelo en la tabla 3.1.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**3.3. INFORMACIÓN GENERAL**
+
+El análisis de nodos es una técnica que hace uso de la LCK para expresar corrientes en función de voltajes.
+
+Un nodo es el punto de unión de dos o más elementos.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**3.4. MATERIAL Y EQUIPO REQUERIDO**
+
+![78](https://user-images.githubusercontent.com/93800511/143964444-144a4941-bbeb-4eba-bdd8-5ac136446ab0.png)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**3.5. MARCO TEÓRICO**
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**3.6. PROCEDIMIENTO**
+
+3.6.1. Implemente el circuito que se presenta en la figura 3.1.
+
+![imagen](https://user-images.githubusercontent.com/93835533/143972175-3d5d5505-8260-4f74-92fe-e6e8c0424846.png)
+
+3.6.2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.
+
+3.6.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en
+la tabla 3.1.
+
+3.5.4. Compare los valores de la tabla 3.1 y realice sus conclusiones.
+
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
 
-* Materiales a usar.
 
-![78](https://user-images.githubusercontent.com/93800511/143964444-144a4941-bbeb-4eba-bdd8-5ac136446ab0.png)
+
 
 * Circuito propuesto
  
@@ -50,10 +87,6 @@ Circuito Armado
 Medición del voltaje de cada Nodo
 
 ![image](https://user-images.githubusercontent.com/93835587/143969931-1b1205ee-c532-4430-9a51-b47992e78315.png)
-
-<img src="https://latex.codecogs.com/svg.image?\\NODO~1\to&space;No~genera~ecuaciones" title="\\NODO~1\to No~genera~ecuaciones" />
-
-<img src="https://latex.codecogs.com/svg.image?\\NODO~2\\&space;I_{1}&plus;I_{2}&plus;I_{3}=&space;0\\\\\frac{V_{1}-V_{2}}{R_{1}}&space;&plus;\frac{V_{0}-V_{2}}{R_{2}}&plus;\frac{V_{3}-V_{2}}{R_{3}}=&space;0\\\\\frac{V_{F1}-V_{2}}{R_{1}}&space;&plus;\frac{V_{0}-V_{2}}{R_{2}}&plus;\frac{V_{3}-V_{2}}{R_{3}}=&space;0\\&space;\\V_{F1}\left&space;(&space;\frac{1}{R1}&space;\right&space;)&plus;V_{3}\left&space;(&space;\frac{1}{R3}&space;\right&space;)-V_{2}\left&space;(&space;\frac{1}{R1}&space;&plus;\frac{1}{R2}&plus;\frac{1}{R3}\right&space;)=&space;0" title="\\NODO~2\\ I_{1}+I_{2}+I_{3}= 0\\\\\frac{V_{1}-V_{2}}{R_{1}} +\frac{V_{0}-V_{2}}{R_{2}}+\frac{V_{3}-V_{2}}{R_{3}}= 0\\\\\frac{V_{F1}-V_{2}}{R_{1}} +\frac{V_{0}-V_{2}}{R_{2}}+\frac{V_{3}-V_{2}}{R_{3}}= 0\\ \\V_{F1}\left ( \frac{1}{R1} \right )+V_{3}\left ( \frac{1}{R3} \right )-V_{2}\left ( \frac{1}{R1} +\frac{1}{R2}+\frac{1}{R3}\right )= 0" />
 
 
 
