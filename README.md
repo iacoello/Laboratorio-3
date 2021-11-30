@@ -78,8 +78,7 @@ Un nodo es el punto de unión de dos o más elementos.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
-
+**3.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 
 
@@ -97,17 +96,17 @@ Un nodo es el punto de unión de dos o más elementos.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**1.6 VIDEOS**
+**3.8. VIDEOS**
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**1.7 .CONCLUCIONES**
+**3.9. CONCLUCIONES**
 
 En conclución así como en el desarrollo del método de mallas se puede dislimbrar que los procesos para analizar los circuitos por nodos determinan de manera exacta las corrientes y voltajes que atraviezan este cumpliendo las leyes expuestas por Kirchoff, por medio de la practica se logro comprobar la utilidad y veracidad de estas leyes en su totalidad conforme a lo estudiado de manera teorica en clase.  
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**1.8.BIBLIOGRAFÍA**
+**3.10. BIBLIOGRAFÍA**
 
 Floyd, Thomas.L. (s. f.). Floyd Octava Edición principios de circuitos electricos (8va edición, Vol. 1). Prentice Hall. https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20Electronicos%208va.edicion-%20Floyd.pdf
 
