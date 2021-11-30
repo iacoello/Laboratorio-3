@@ -49,16 +49,23 @@ Un nodo es el punto de unión de dos o más elementos.
 
 **3.6. PROCEDIMIENTO**
 
-* 3.5.1. Implemente el circuito que se presenta en la figura 3.1.
+3.6.1. Implemente el circuito que se presenta en la figura 3.1.
 
 ![imagen](https://user-images.githubusercontent.com/93835533/143982374-bd37c80a-659b-4bef-a5ce-0a6096d3cc51.png)
 
 
+* Circuito Armado
+
+![cir](https://user-images.githubusercontent.com/93835587/143969453-5cf7b4d9-8fe7-4209-bb55-96cff8414839.jpg)
+
+* Medición del voltaje de cada Nodo
+
+![image](https://user-images.githubusercontent.com/93835587/143969931-1b1205ee-c532-4430-9a51-b47992e78315.png)
+
+![image](https://user-images.githubusercontent.com/93835587/143974630-5ee36c11-3731-41d8-bf48-df9560f92f12.png)
 
 
- Circuito propuesto
- 
-![image](https://user-images.githubusercontent.com/93835587/143970343-e9ac8c4f-f7be-4e07-a702-99ec1f922685.png)
+
 
 
 
@@ -67,15 +74,7 @@ Un nodo es el punto de unión de dos o más elementos.
 
 **1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
-* Circuito Armado
 
-![cir](https://user-images.githubusercontent.com/93835587/143969453-5cf7b4d9-8fe7-4209-bb55-96cff8414839.jpg)
-
-Medición del voltaje de cada Nodo
-
-![image](https://user-images.githubusercontent.com/93835587/143969931-1b1205ee-c532-4430-9a51-b47992e78315.png)
-
-![image](https://user-images.githubusercontent.com/93835587/143974630-5ee36c11-3731-41d8-bf48-df9560f92f12.png)
 
 
 <img src="https://latex.codecogs.com/svg.image?\\NODO~1\to&space;No~genera~ecuaciones" title="\\NODO~1\to No~genera~ecuaciones" />
