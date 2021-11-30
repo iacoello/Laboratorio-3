@@ -55,6 +55,8 @@ Medición del voltaje de cada Nodo
 
 <img src="https://latex.codecogs.com/svg.image?\\NODO~2\\&space;I_{1}&plus;I_{2}&plus;I_{3}=&space;0\\\\\frac{V_{1}-V_{2}}{R_{1}}&space;&plus;\frac{V_{0}-V_{2}}{R_{2}}&plus;\frac{V_{3}-V_{2}}{R_{3}}=&space;0\\\\\frac{V_{F1}-V_{2}}{R_{1}}&space;&plus;\frac{V_{0}-V_{2}}{R_{2}}&plus;\frac{V_{3}-V_{2}}{R_{3}}=&space;0\\&space;\\V_{F1}\left&space;(&space;\frac{1}{R1}&space;\right&space;)&plus;V_{3}\left&space;(&space;\frac{1}{R3}&space;\right&space;)-V_{2}\left&space;(&space;\frac{1}{R1}&space;&plus;\frac{1}{R2}&plus;\frac{1}{R3}\right&space;)=&space;0" title="\\NODO~2\\ I_{1}+I_{2}+I_{3}= 0\\\\\frac{V_{1}-V_{2}}{R_{1}} +\frac{V_{0}-V_{2}}{R_{2}}+\frac{V_{3}-V_{2}}{R_{3}}= 0\\\\\frac{V_{F1}-V_{2}}{R_{1}} +\frac{V_{0}-V_{2}}{R_{2}}+\frac{V_{3}-V_{2}}{R_{3}}= 0\\ \\V_{F1}\left ( \frac{1}{R1} \right )+V_{3}\left ( \frac{1}{R3} \right )-V_{2}\left ( \frac{1}{R1} +\frac{1}{R2}+\frac{1}{R3}\right )= 0" />
 
+<img src="https://latex.codecogs.com/svg.image?\\Para~obtener~nuestra~incognita~igualamos~V_{2}\\\\0,1612V_{3}&plus;2,1613&space;=&space;2,8V_{3}-10,6\\\\12,7213=&space;2,6397V_{3}&space;\\\\&space;V_{3}=&space;\frac{12,7213}{2,6397}\\&space;V_{3}=4,82V" title="\\Para~obtener~nuestra~incognita~igualamos~V_{2}\\\\0,1612V_{3}+2,1613 = 2,8V_{3}-10,6\\\\12,7213= 2,6397V_{3} \\\\ V_{3}= \frac{12,7213}{2,6397}\\ V_{3}=4,82V" />
+
 * Circuito desarrollado por softwere
 
 ![789](https://user-images.githubusercontent.com/93800511/143972643-2542ab2e-8ed9-4996-b618-ed567eafe105.png)
