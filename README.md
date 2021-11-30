@@ -49,7 +49,7 @@ Un nodo es el punto de unión de dos o más elementos.
 
 **3.6. PROCEDIMIENTO**
 
-3.6.1. Implemente el circuito que se presenta en la figura 3.1.
+**3.6.1. Implemente el circuito que se presenta en la figura 3.1.**
 
 ![imagen](https://user-images.githubusercontent.com/93835533/143982374-bd37c80a-659b-4bef-a5ce-0a6096d3cc51.png)
 
@@ -58,14 +58,15 @@ Un nodo es el punto de unión de dos o más elementos.
 
 ![cir](https://user-images.githubusercontent.com/93835587/143969453-5cf7b4d9-8fe7-4209-bb55-96cff8414839.jpg)
 
-* Medición del voltaje de cada Nodo
+
+**3.6.2. Mida cada uno de los voltajes de nodo y anote los resultados en la tabla 3.1.**
 
 ![image](https://user-images.githubusercontent.com/93835587/143969931-1b1205ee-c532-4430-9a51-b47992e78315.png)
 
 ![image](https://user-images.githubusercontent.com/93835587/143974630-5ee36c11-3731-41d8-bf48-df9560f92f12.png)
 
 
-
+**3.5.3. Simule en el software Multisim, Proteus, o cualquier otro simulador, el circuito de la figura 3.1, obteniendo los valores de los voltajes de nodo. Anote los resultados en la tabla 3.1.**
 
 
 
