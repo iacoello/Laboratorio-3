@@ -29,9 +29,11 @@ Comprobar experimentalmente el Análisis de Nodos.
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
 
 * Materiales a usar.
+
 ![78](https://user-images.githubusercontent.com/93800511/143964444-144a4941-bbeb-4eba-bdd8-5ac136446ab0.png)
 
-* Circuito propuesto 
+* Circuito propuesto
+ 
 ![78](https://user-images.githubusercontent.com/93800511/143964569-9271f013-d41a-456e-9cb3-4abd277d6869.png)
 
 
