@@ -59,7 +59,8 @@ Medición del voltaje de cada Nodo
 
 * Circuito desarrollado por softwere
 
-![789](https://user-images.githubusercontent.com/93800511/143972643-2542ab2e-8ed9-4996-b618-ed567eafe105.png)
+![imagen](https://user-images.githubusercontent.com/93835533/143973270-1ea25db2-7c35-42a3-be62-6592ad6e6b18.png)
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
