@@ -81,6 +81,7 @@ Un nodo es el punto de unión de dos o más elementos.
 **3.7. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 
+![diagrama](https://user-images.githubusercontent.com/93835533/143984090-a6f8a82d-8534-49d1-976c-36271f386f53.png)
 
 <img src="https://latex.codecogs.com/svg.image?\\NODO~1\to&space;No~genera~ecuaciones" title="\\NODO~1\to No~genera~ecuaciones" />
 
