@@ -24,6 +24,8 @@ Comprobar experimentalmente el Análisis de Nodos desarrollado por mediode las l
 
 **1.3 MARCO TEÓRICO**
 
+![142921057-ca1f6939-c1be-4cb4-85a4-2bc00deb63ce](https://user-images.githubusercontent.com/93800511/143978078-b99a56b0-fde6-4c8d-a812-883608061667.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
