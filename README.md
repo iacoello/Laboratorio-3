@@ -26,6 +26,8 @@ Comprobar experimentalmente el Análisis de Nodos desarrollado por mediode las l
 
 ![142921057-ca1f6939-c1be-4cb4-85a4-2bc00deb63ce](https://user-images.githubusercontent.com/93800511/143978078-b99a56b0-fde6-4c8d-a812-883608061667.png)
 
+![Diagrama en blanco (3)](https://user-images.githubusercontent.com/93800511/143981009-4e946440-3798-4914-8fba-59183e640eb3.png)
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **1.4 EXPLICACIÓN DE PROCEDIMIENTO**
